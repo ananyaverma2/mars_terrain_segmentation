@@ -1,5 +1,6 @@
 # Segmentation of Mars Terrain Using Classical Computer Vision Techniques
 
+## Dataset
 
 | ![Detailed Panorama of Mars' Jezero Crater Delta](images/panorama.png) | 
 |:--:| 
@@ -21,8 +22,10 @@
 
 ## Input image
 
-![](final_results/input_image.png)
+![](images/cv_test_images_1.png)
 
 ## Output image
 
-![](final_results/final_Seg_all_3_classes.jpg)
+![](final_results/image1/final_Seg_all_3_classes_denoise.jpg)
+
+> Run the main.ipynb file to visualize the results
